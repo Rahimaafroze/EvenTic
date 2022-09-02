@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EvenTic</string>
+
+    <string name="events_a">
+        EVENT NAME: DCC RAG DAY-2022\n\nVENUE: DHAKA CITY COLLEGE CAMPUS\n\nDATE: 2nd AUGUST,2022\n\nTIME: ALL DAY
+    </string>
+    <string name="events_b">
+        EVENT NAME: CONFERENCE ON SUSTAINABLE TECHNOLOGY\n\nVENUE: BGB Banquet hall\n\nDATE: 17th-18th December,2022\n\nTIME: 11:00am
+    </string>
+    <string name="events_c">
+        EVENT NAME: BUSINESS CONFERENCE 2022\n\nVENUE: Dhaka international conference center\n\nDATE: 22nd September,2022\n\nTIME: 10:00am-4:00pm
+    </string>
+    <string name="events_d">
+        EVENT NAME: NANOTECH AND BIO-ENGINEERING CONFERENCE\n\nVENUE: Dhaka international conference center\n\nDATE: 2nd November,2022\n\nTIME: 10:00am-5:00pm
+    </string>
+    <string name="events_e">
+        EVENT NAME: AGRI BUSINESS CONFERENCE\n\nVENUE: sena malancha\n\nDATE: 2nd October,2022\n\nTIME: 11:00am-3:00pm
+    </string>
+    <string name="events_f">
+        EVENT NAME: 2nd NATIONAL SCIENCE CARNIVAL\n\nVENUE: Police convention hall\n\nDATE: 22nd December,2022\n\nTIME: 10:00am-4:00pm
+    </string>
+    <string name="events_g">
+        EVENT NAME: K-DANCE MEETUP\n\nVENUE: Rajdarshan\n\nDATE: 2nd AUGUST,2022\n\nTIME: 10:00am-4:00pm
+    </string>
+    <string name="events_h">
+        EVENT NAME: JOY BANGLA CONCERT\n\nVENUE: Bangladesh Army Stadium\n\nDATE: 22nd March,2023\n\nTIME: 1:00pm-6:00pm
+    </string>
+    <string name="events_i">
+        EVENT NAME: BANGLADESH WOMEN MARATHON\n\nVENUE: Bangladesh Army Stadium\n\nDATE: 2nd AUGUST,2022\n\nTIME: 8:00am-2:00pm
+    </string>
+
+
+</resources>
+

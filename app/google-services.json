@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314873126123",
+    "project_id": "eventic-b0475",
+    "storage_bucket": "eventic-b0475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314873126123:android:fc90f90199ea2de14732ae",
+        "android_client_info": {
+          "package_name": "com.example.eventic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314873126123-82ghnqtle2srlf87kuuqjohi2tcmu6au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7sEt5JKdqEAXJJnKXTu8t3LV7VkLRS_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314873126123-82ghnqtle2srlf87kuuqjohi2tcmu6au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
