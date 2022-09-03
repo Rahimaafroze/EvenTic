@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
         binding.bottomNavigationView.setOnItemSelectedListener {
             when(it.itemId){
                 R.id.mi_home -> setCurrentFragment(firstFragment)
-                R.id.mi_scanner -> setCurrentFragment(secondFragment)
+                R.id.mi_favorites -> setCurrentFragment(secondFragment)
                 R.id.mi_search -> setCurrentFragment(thirdFragment)
                 R.id.mi_profile -> setCurrentFragment(fourFragment)
             }

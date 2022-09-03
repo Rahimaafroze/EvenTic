@@ -2,10 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.eventic">
-<!--    &lt;!&ndash; Required to get image by camera &ndash;&gt;-->
+    <!-- &lt;!&ndash; Required to get image by camera &ndash;&gt; -->
     <uses-permission android:name="android.permission.CAMERA" /> <!-- Required to get image from gallery -->
-    <uses-permission android:name="android.hardware.camera.autofocus"/>
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
     <application
         android:allowBackup="true"
@@ -17,6 +16,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EvenTic"
         tools:targetApi="31">
+        <activity
+            android:name=".ScanActivity"
+            android:exported="false" />
         <activity
             android:name=".EventsActivity"
             android:exported="false" />
