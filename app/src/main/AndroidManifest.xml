@@ -4,6 +4,7 @@
     package="com.example.eventic">
     <!-- &lt;!&ndash; Required to get image by camera &ndash;&gt; -->
     <uses-permission android:name="android.permission.CAMERA" /> <!-- Required to get image from gallery -->
+    <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 
     <application

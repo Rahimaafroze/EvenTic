@@ -67,6 +67,7 @@
             android:id="@+id/resultTv"
             style="@style/TextAppearance.MaterialComponents.Body1"
             android:textColor="@color/red"
+            android:layout_height="wrap_content"
             android:layout_width="match_parent"/>
 
 
