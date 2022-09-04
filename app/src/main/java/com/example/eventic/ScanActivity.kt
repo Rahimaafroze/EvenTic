@@ -132,6 +132,8 @@ class ScanActivity : AppCompatActivity() {
             val corners = barcode.cornerPoints
 
             val rawValue = barcode.rawValue
+            ///////////////////////////////added further////////////////////////////
+//            resultTv.text= barcode.rawValue
             Log.d(TAG, "extractBarcodeQrCodeInfo: rawValue: $rawValue")
 
             val valueType = barcode.valueType
